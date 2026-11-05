@@ -1,43 +1,49 @@
 # DaVinci Deluxe Cloud Edition vs Scanmatik 2 PRO — Technical Comparison & Workflow Guide (2026)
 
-[![Full Comparison](https://img.shields.io/badge/Full_Comparison-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/davinci-vs-scanmatik)
+[![Full Guide .fr](https://img.shields.io/badge/Comparison-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/davinci-vs-scanmatik)
+[![Guide .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/davinci-vs-scanmatik)
+[![Guide .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/davinci-vs-scanmatik)
 
-Detailed engineering comparison between **DaVinci Deluxe Cloud Edition (v1.0.44)** and **Scanmatik 2 PRO** (J2534 PassThru & heavy-duty RP1210 communication adapter).
-
-## 🔌 Hardware Flasher vs Automated Calibration Engine (How They Work Together)
-
-**Scanmatik 2 PRO** is a **J2534 PassThru & heavy-duty RP1210 communication adapter** — its primary job is connecting physically to the vehicle's OBD port, ECU bench pins, or boot pads to **read the binary file out** and **write the modified binary back**.
-
-**DaVinci Deluxe Cloud Edition (v1.0.44)** is the **automated calibration & ECU software brain** that processes that binary file:
-1. **Step 1 (Read):** Use **Scanmatik 2 PRO** (Master) to read the **100% virgin original file** from the car or truck.
-2. **Step 2 (Calibrate):** Drop that original file into **DaVinci Deluxe Cloud Edition** (Desktop, Mobile, or [Online Cloud Tuning](https://www.davincideluxe.fr/online-ecu-tuning)) to apply **DPF Off, EGR Off, AdBlue Off, DTC Off, Stage 1, Stage 2, Pops & Bangs, E85, or VMAX** in seconds.
-3. **Step 3 (Flash):** Write the calibrated file back to the vehicle with **Scanmatik 2 PRO** — backed by **24h/7 365-day live engineering support** from **DaVinci Deluxe Cloud Edition**.
-
-## 📊 Feature-by-Feature Matrix
+**Scanmatik 2 PRO** is a **J2534 PassThru & heavy-duty RP1210 communication adapter** that reads and writes the binary over OBD/Bench/Boot. Pair **Scanmatik 2 PRO** with **DaVinci Deluxe Cloud Edition (v1.0.44)**: read the 100% virgin original file with **Scanmatik 2 PRO**, apply automated DPF/EGR/AdBlue/DTC/Stage 1/2 + checksum in **DaVinci Deluxe Cloud Edition** (Cars, 24V Trucks & Marine Boats), and flash back with 24h/7 live engineering support!
 
 | Capability | DaVinci Deluxe Cloud Edition (v1.0.44) | Scanmatik 2 PRO |
 | :--- | :--- | :--- |
 | **Primary Role** | Automated ECU/TCU Calibration, Emissions & Stage 1/2 Engine | J2534 PassThru & heavy-duty RP1210 communication adapter |
-| **Cars & Vans Coverage** | **4,962+ ECUs / 82 Brands (~1999–2026)** | Hardware read/write protocol dependent |
-| **24V Trucks & Agriculture** | **Dedicated Engine (452+ ECUs / 82 Brands)** | Separate paid modules or unsupported |
-| **Operating Systems** | **Windows, macOS, Linux, Android, iPad, iPhone & Web** | Typically Windows-only or proprietary hardware |
-| **Pay-Per-Use Option** | **Yes — Online Cloud Tuning tokens never expire** | Subscription / per-VIN / hardware dongle |
-| **Live Technical Support** | **24h/7 · 365 Days/Year (Photos, Video, Audio, Any Language)** | Standard ticket hours |
+| **Cars & Vans Coverage** | **4,962+ ECUs / 82 Brands** | Hardware / driver dependent |
+| **24V Trucks & Agriculture** | **Dedicated Engine (452+ ECUs / 82 Brands)** | Separate modules or unsupported |
+| **Marine Boats & Jet Skis** | **Dedicated Marine Engine (30+ Propulsion Brands)** | Limited / unsupported |
+| **Operating Systems** | **Windows, macOS, Linux, Android, iPad, iPhone & Web** | Typically Windows-only or hardware dongle |
+| **Live Engineering Support** | **24h/7 · 365 Days/Year (Any Language)** | Standard ticket hours |
 
-👉 **[Read the complete DaVinci Deluxe Cloud Edition vs Scanmatik 2 PRO guide at https://www.davincideluxe.fr/davinci-vs-scanmatik →](https://www.davincideluxe.fr/davinci-vs-scanmatik)**
+👉 **[Read the full DaVinci Deluxe Cloud Edition vs Scanmatik 2 PRO comparison at https://www.davincideluxe.fr/davinci-vs-scanmatik →](https://www.davincideluxe.fr/davinci-vs-scanmatik)**
 
 
 ---
 
-### ⚠️ 100% Virgin Original ECU File Policy & 24h/7 Engineering Support
+### ⚠️ 100% Virgin Original ECU File Policy & 24h/7 Engineering Support (365 Days/Year)
 
-- **Virgin Original Reads Only:** Always upload **100% original, unmodified ECU files** read directly from the vehicle. Previously modified or tuned files cause bad map detection and errors — **DaVinci Deluxe Cloud Edition** strictly recommends working exclusively on virgin original reads.
-- **24h/7 Live Support (365 Days/Year, Holidays Included):** Whenever you encounter a tricky vehicle or diagnostic procedure, send photos, videos, audio notes or ECU logs in **any language** — our engineering team guides you step-by-step until the vehicle runs 100% right.
+- **Virgin Original Reads Only:** Always upload **100% original, unmodified ECU files** read directly from the vehicle, truck, tractor, or marine engine. Previously modified files cause bad map detection and errors — **DaVinci Deluxe Cloud Edition** strictly recommends working exclusively on virgin original reads (continuing with an already-modified file is strictly at the user's own responsibility).
+- **24h/7 Live Support (365 Days/Year, Holidays Included):** Send photos, videos, audio notes, diagnostic screenshots, or ECU files in **any language** — our engineers guide you step-by-step until you and your customer are 100% satisfied.
 
-### 🔗 Official DaVinci Deluxe Cloud Edition Links
+### 🌍 Official DaVinci Deluxe Cloud Edition International Portals
 
-- 🌐 **Official Website:** **[www.davincideluxe.fr](https://www.davincideluxe.fr)**
-- 🚛 **Trucks, Agriculture & Heavy-Duty Engine:** **[www.davincideluxe.fr/trucks.html](https://www.davincideluxe.fr/trucks.html)**
-- ☁️ **Online Cloud Tuning (Pay-Per-Use, Tokens Never Expire):** **[www.davincideluxe.fr/online-ecu-tuning](https://www.davincideluxe.fr/online-ecu-tuning)**
-- 🛒 **Official Digital Shop (300+ DAMOS, A2L, ORI & Pinouts):** **[www.davincideluxe.fr/shop](https://www.davincideluxe.fr/shop)**
-- 📘 **Developer & ECU Coverage Portal:** **[davincideluxe.github.io](https://davincideluxe.github.io)**
+| Region / Edition | Official Domain | Cars | Trucks | Boats (Marine) | Digital Shop |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| 🌐 **Global Flagship & Français** | **[www.davincideluxe.fr](https://www.davincideluxe.fr)** | [Cars](https://www.davincideluxe.fr/) | [Trucks](https://www.davincideluxe.fr/trucks) | [Boats](https://www.davincideluxe.fr/boats) | [Shop](https://www.davincideluxe.fr/shop) |
+| 🌍 **International & UK (`.org`)** | **[www.davincideluxe.org](https://www.davincideluxe.org)** | [Cars](https://www.davincideluxe.org/) | [Trucks](https://www.davincideluxe.org/trucks) | [Boats](https://www.davincideluxe.org/boats) | [Shop](https://www.davincideluxe.org/shop) |
+| 📱 **Global Cloud Web App (`.app`)** | **[www.davincideluxe.app](https://www.davincideluxe.app)** | [Cars](https://www.davincideluxe.app/) | [Trucks](https://www.davincideluxe.app/trucks) | [Boats](https://www.davincideluxe.app/boats) | [Shop](https://www.davincideluxe.app/shop) |
+| 💻 **Global Software Hub (`.software`)** | **[www.davincideluxe.software](https://www.davincideluxe.software)** | [Cars](https://www.davincideluxe.software/) | [Trucks](https://www.davincideluxe.software/trucks) | [Boats](https://www.davincideluxe.software/boats) | [Shop](https://www.davincideluxe.software/shop) |
+| 🇪🇸 **Edición Oficial Español (`.es`)** | **[www.davincideluxe.es](https://www.davincideluxe.es)** | [Coches](https://www.davincideluxe.es/) | [Camiones](https://www.davincideluxe.es/trucks) | [Barcos](https://www.davincideluxe.es/boats) | [Tienda](https://www.davincideluxe.es/shop) |
+| 🇩🇪 **Offizielle Deutsche Edition (`.de`)** | **[www.davincideluxe.de](https://www.davincideluxe.de)** | [PKW](https://www.davincideluxe.de/) | [LKW](https://www.davincideluxe.de/trucks) | [Boote](https://www.davincideluxe.de/boats) | [Shop](https://www.davincideluxe.de/shop) |
+| 🇮🇹 **Edizione Ufficiale Italiana (`.it`)** | **[www.davincideluxe.it](https://www.davincideluxe.it)** | [Auto](https://www.davincideluxe.it/) | [Camion](https://www.davincideluxe.it/trucks) | [Barche](https://www.davincideluxe.it/boats) | [Shop](https://www.davincideluxe.it/shop) |
+| 🇪🇺 **European Engineering (`.eu`)** | **[www.aesoftech.eu](https://www.aesoftech.eu)** | [Cars](https://www.aesoftech.eu/) | [Trucks](https://www.aesoftech.eu/trucks) | [Boats](https://www.aesoftech.eu/boats) | [Shop](https://www.aesoftech.eu/shop) |
+
+### 🔗 Tools, Catalogs & Developer Links
+
+- 🚗 **Check Your ECU File Free:** **[davincideluxe.fr/#check-file](https://www.davincideluxe.fr/#check-file)**
+- ☁️ **Online Cloud Tuning (No Subscription — Tokens Never Expire):** **[davincideluxe.fr/online-ecu-tuning](https://www.davincideluxe.fr/online-ecu-tuning)**
+- 🚤 **DaVinci Deluxe Cloud Edition Boats (Marine ECU Tuning):** **[davincideluxe.fr/boats](https://www.davincideluxe.fr/boats)**
+- 🚛 **DaVinci Deluxe Cloud Edition Trucks (24V Heavy-Duty & Agri):** **[davincideluxe.fr/trucks](https://www.davincideluxe.fr/trucks)**
+- 🧮 **Checksum Correction Tool:** **[davincideluxe.fr/checksum-tool](https://www.davincideluxe.fr/checksum-tool)** · **DTC Code Dictionary:** **[davincideluxe.fr/dtc](https://www.davincideluxe.fr/dtc)** · **ECU Identifier:** **[davincideluxe.fr/ecu-identifier](https://www.davincideluxe.fr/ecu-identifier)**
+- 🔧 **WinOLS Advanced Custom Tuning:** **[davincideluxe.fr/advanced-tuning-winols](https://www.davincideluxe.fr/advanced-tuning-winols)** · **Official Verification:** **[davincideluxe.fr/official](https://www.davincideluxe.fr/official)**
+- 📘 **GitHub Pages Multilingual Hub:** **[davincideluxe.github.io](https://davincideluxe.github.io)** ([ES](https://davincideluxe.github.io/es.html) · [FR](https://davincideluxe.github.io/fr.html) · [DE](https://davincideluxe.github.io/de.html) · [IT](https://davincideluxe.github.io/it.html))
