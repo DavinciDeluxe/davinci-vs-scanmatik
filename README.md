@@ -4,12 +4,12 @@
 [![Guide .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/davinci-vs-scanmatik)
 [![Guide .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/davinci-vs-scanmatik)
 
-**Scanmatik 2 PRO** is a **J2534 PassThru & heavy-duty RP1210 communication adapter** that reads and writes the binary over OBD/Bench/Boot. Pair **Scanmatik 2 PRO** with **DaVinci Deluxe Cloud Edition (v1.0.44)**: read the 100% virgin original file with **Scanmatik 2 PRO**, apply automated DPF/EGR/AdBlue/DTC/Stage 1/2 + checksum in **DaVinci Deluxe Cloud Edition** (Cars, 24V Trucks & Marine Boats), and flash back with 24h/7 live engineering support!
+**Scanmatik 2 PRO** is a **J2534 PassThru & heavy-duty RP1210 communication adapter** that reads and writes the binary over OBD/Bench/Boot. Pair **Scanmatik 2 PRO** with **DaVinci Deluxe Cloud Edition (v1.0.45)**: read the 100% virgin original file with **Scanmatik 2 PRO**, apply automated DPF/EGR/AdBlue/DTC/Stage 1/2 + checksum in **DaVinci Deluxe Cloud Edition** (Cars, 24V Trucks & Marine Boats), and flash back with 24h/7 live engineering support!
 
-| Capability | DaVinci Deluxe Cloud Edition (v1.0.44) | Scanmatik 2 PRO |
+| Capability | DaVinci Deluxe Cloud Edition (v1.0.45) | Scanmatik 2 PRO |
 | :--- | :--- | :--- |
 | **Primary Role** | Automated ECU/TCU Calibration, Emissions & Stage 1/2 Engine | J2534 PassThru & heavy-duty RP1210 communication adapter |
-| **Cars & Vans Coverage** | **4,964+ ECUs / 82 Brands** | Hardware / driver dependent |
+| **Cars & Vans Coverage** | **4,973+ ECUs / 82 Brands** | Hardware / driver dependent |
 | **24V Trucks & Agriculture** | **Dedicated Engine (452+ ECUs / 82 Brands)** | Separate modules or unsupported |
 | **Marine Boats & Jet Skis** | **Dedicated Marine Engine (30+ Propulsion Brands)** | Limited / unsupported |
 | **Operating Systems** | **Windows, macOS, Linux, Android, iPad, iPhone & Web** | Typically Windows-only or hardware dongle |
